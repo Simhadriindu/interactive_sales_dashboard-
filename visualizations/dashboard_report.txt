@@ -1,0 +1,16 @@
+
+INTERACTIVE SALES DASHBOARD REPORT
+==================================
+
+Total Sales:
+12365048
+
+Average Product Price:
+25808.51
+
+Key Insights:
+1. Laptop sales dominate overall revenue.
+2. Monthly sales show upward trend.
+3. Heatmap reveals strong relationship between price and sales.
+4. Boxplots identify product price spread.
+5. Interactive dashboard improves user analysis experience.
